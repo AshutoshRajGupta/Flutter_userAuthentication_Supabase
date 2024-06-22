@@ -40,7 +40,7 @@ Follow these steps to set up and run the project on your local machine:
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/AshutoshRajGupta/Flutter_userAuthentication_Supabase.git
+   git clone https://github.com/AshutoshRajGupta/flutter-clean-architecture.git
    cd flutter-clean-architecture-auth-supabase
    ```
 
